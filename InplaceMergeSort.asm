@@ -124,16 +124,16 @@ eol:	.asciiz	"\n"
 
 
 # Some test data
-eight:	.word	8
-five:	.word	5
-four:	.word	4
-nine:	.word	9
-one:	.word	1
-seven:	.word	7
-six:	.word	6
-ten:	.word	10
-three:	.word	3
-two:	.word	2
+eight:	.word	83
+five:	.word	54
+four:	.word	42
+nine:	.word	94
+one:	.word	134
+seven:	.word	72
+six:	.word	634
+ten:	.word	104
+three:	.word	32
+two:	.word	224
 
 # An array of pointers (indirect array)
 length:	.word	10	# Array length
